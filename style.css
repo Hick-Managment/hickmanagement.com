@@ -1,20 +1,10 @@
-html, body {
-  min-height: 100%;
-}
-
 body {
     background: url(./AMPT1.jpg) center,no-repeat;
     min-height: 100vh;
     font-family: serif;
     height: 1500px;
-    background-color: dodgerblue;
-    
+      }
 
-  }
-  h1 {
-  color: rgb(20, 17, 202);
-  }
-  
   .footer-basic {
     padding:40px 0;
     background-color:#ffffff;
